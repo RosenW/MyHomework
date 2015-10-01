@@ -14,5 +14,6 @@ class SencenceExtractor
         {
             Console.WriteLine(sentence.Groups[0]);
         }
+	Console.WriteLine("Thanks for using this program")
     }
 }
